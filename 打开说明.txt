@@ -1,0 +1,10 @@
+燕山大学校车调度优化 · 网页离线版
+
+1. 请先完整解压压缩包。
+2. 双击 index.html，用 Chrome、Edge 等现代浏览器打开。
+3. 图片、字体、数据、动画和7页中文项目介绍都已包含在文件夹中，可离线浏览。
+4. 请将网页文件和 assets 文件夹保留在一起。
+5. 中文项目介绍文件位于 assets/yanshan-shuttle-report.pdf，也可通过网页最后一栏下载。
+6. 网页“复制链接”按钮复制的是在线版相应页面地址。
+
+在线版：https://yanshan-shuttle-study.peachy-gnome-3006.chatgpt.site
